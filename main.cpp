@@ -11,6 +11,8 @@
  * The corresponding GUI plugin that interacts with this node is example_mrccc_custom_status_data
  */
 
+// I modified this for 2nd version
+
 #include <ros/ros.h>
 #include <jsoncpp/json/value.h>
 #include "mrccc_custom_status_data_server/RegisterData.h"
