@@ -11,10 +11,14 @@
  * The corresponding GUI plugin that interacts with this node is example_mrccc_custom_status_data
  */
 
+<<<<<<< HEAD
 // I modified this for 2nd version
 // To check the git diff
 
 // For fifth version
+=======
+//git branch f3
+>>>>>>> free
 
 #include <ros/ros.h>
 #include <jsoncpp/json/value.h>
