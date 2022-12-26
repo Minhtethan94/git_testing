@@ -15,6 +15,7 @@
 // I modified this for 2nd version
 // To check the git diff
 
+<<<<<<< HEAD
 // For fifth version
 =======
 //git branch f3
@@ -23,6 +24,9 @@
 
 //For v6 sixth_version
 
+=======
+//Paid v2 testing
+>>>>>>> paid
 
 #include <ros/ros.h>
 #include <jsoncpp/json/value.h>
