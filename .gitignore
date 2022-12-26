@@ -1,0 +1,10 @@
+
+*.i
+*.o
+*.[ios]  #end with i, o, s 
+*~
+build/ #All files inside build directory are ignored
+
+main.i
+main.o
+main.s
